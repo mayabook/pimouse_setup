@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+#MyName is mayabook.
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
